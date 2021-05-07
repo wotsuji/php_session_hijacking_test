@@ -1,0 +1,2 @@
+# php_session_hijacking_test
+セッションハイジャックを検証するPHPコード
