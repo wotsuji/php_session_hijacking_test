@@ -1,0 +1,10 @@
+
+# Windows Temp File
+.DS_Store
+Thumbs.db
+
+# Environment File
+.env
+
+
+
